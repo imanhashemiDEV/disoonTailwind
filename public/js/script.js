@@ -18,7 +18,7 @@ bar_menu.addEventListener("click", function () {
         responsive_menu.style.height="0"
         is_open=false
     }else{
-        responsive_menu.style.height="9rem"
+        responsive_menu.style.height="8rem"
         is_open=true
     }
 });
